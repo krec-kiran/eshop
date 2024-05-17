@@ -8,4 +8,4 @@ Login details:
 
 Example endpoint - Get all products - http://eshop-env.eba-apksaumr.us-east-2.elasticbeanstalk.com/api/products/
 
-TO-DO - Testing!
+TO-DO - Writing Test Suite!
